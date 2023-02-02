@@ -2,7 +2,7 @@
 
 <p>The challenge is to use data to improve operations of the pizza and put together a report to help find opportunities to drive more sales and work more efficiently.</p>
  
-<blockquote><B>About the dataset</B></blockquote>
+<h2><blockquote><B>About the dataset</B></blockquote></h2>
 <blockquote>This dataset contains 4 tables in CSV format:
   <ol>
     <li>The Orders table contains the date & time that all table orders were placed
