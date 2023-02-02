@@ -1,14 +1,16 @@
-<h1> Pizza Place Sales Dashboard - The Maven Pizza Challenge <h1>
-  
- 
-<p> About the dataset
- -----------------
+<h1> Pizza Place Sales Dashboard - The Maven Pizza Challenge </h1>
 
-This dataset contains 4 tables in CSV format
-The Orders table contains the date & time that all table orders were placed
-The Order Details table contains the different pizzas served with each order in the Orders table, and their quantities
-The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
-The Pizza Types table contains details on the pizza types in the Pizzas table <p>
+<p>The challenge is to use data to improve operations of the pizza and put together a report to help find opportunities to drive more sales and work more efficiently.</p>
+ 
+<blockquote><B>About the dataset</B></blockquote>
+<blockquote>This dataset contains 4 tables in CSV format:
+  <ol>
+    <li>The Orders table contains the date & time that all table orders were placed
+    <li>The Order Details table contains the different pizzas served with each order in the Orders table, and their quantities
+    <li>The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
+    <li>The Pizza Types table contains details on the pizza types in the Pizzas table
+  <ol>
+</blockquote>
 
   
   
